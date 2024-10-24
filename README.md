@@ -1,7 +1,7 @@
-**Codes for the study of Wang et al., 2024, Parallel Gut-to-Brain Pathways Orchestrate Feeding Behaviors.
+Codes for the study of Wang et al., 2024, Parallel Gut-to-Brain Pathways Orchestrate Feeding Behaviors.
 
+Codes
 
-### Codes
 1. Visualization
 
 main.cluster.ipynb: Process RNAscope data using Seurat to obtain cell categories.

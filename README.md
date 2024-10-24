@@ -1,5 +1,7 @@
-Codes for the study of Wang et al., 2024, Parallel Gut-to-Brain Pathways Orchestrate Feeding Behaviors.
+**Codes for the study of Wang et al., 2024, Parallel Gut-to-Brain Pathways Orchestrate Feeding Behaviors.
 
+
+### Codes
 1. Visualization
 
 main.cluster.ipynb: Process RNAscope data using Seurat to obtain cell categories.
@@ -19,3 +21,4 @@ Location_cluster_step3.m: Generate a point map of the same size as the original 
 fiber_photometry_analysis.m: Analyze fiber photometry data to obtain DF/F and PSTH values, and plot the results.
 
 optogenetics_analysis.m: Analyze the licking patterns in the optogenetic experiments.
+

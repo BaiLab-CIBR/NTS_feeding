@@ -2,7 +2,8 @@ Codes for the study of Wang et al., 2024, Parallel Gut-to-Brain Pathways Orchest
 
 Codes
 
-1. Visualization 
+1. Visualization
+
 main.cluster.ipynb: Process RNAscope data using Seurat to obtain cell categories.
 
 exNeuron.cluster.ipynb: Conduct cluster analysis of excitatory neurons and identify marker genes.

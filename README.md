@@ -10,11 +10,11 @@ exNeuron.cluster.ipynb: Conduct cluster analysis of excitatory neurons and ident
 
 plots.ipynb: Analyze the correlation between FISH clusters (C1-18) and snRNA-seq clusters (Glu1-15) in the published dataset.
 
-R_reg_step1.m: Generate a point map of the same size as the RNAscope or histology raw data, along with coordinate data corresponding to each point.
+Step1_CellPositionMarker.m: Generate a point map of the same size as the RNAscope or histology raw data, along with coordinate data corresponding to each point.
 
-position_transform_step2.m: Generate the coordinate table from step 1 based on the registration results.
+Step2_IntensityLocator.m: Generate the coordinate table from step 1 based on the registration results.
 
-Location_cluster_step3.m: Generate a point map of the same size as the original map based on the table generated in step 2.
+Step3_ClusterMarker.m: Generate a point map of the same size as the original map based on the table generated in step 2.
 
 2. Fiber photometry and behavior analysis
 
